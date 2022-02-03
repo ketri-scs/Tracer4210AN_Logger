@@ -16,7 +16,7 @@
     wincertstore              0.2              py39haa95532_2   
 
 
-### Configuration   
+### Configuration File   
     Config.py
 
 ### Run   
