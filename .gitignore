@@ -1,0 +1,4 @@
+setup/
+src/.idea/
+src/__pycache__/
+src/log/
