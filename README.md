@@ -21,3 +21,9 @@
 
 ### Run   
     python RunMainProcess.py
+
+### 한국공학기술연구원(KETRi) 채널 안내
+    KETRi 홈페이지 (http://www.ketri.re.kr)
+    KETRi 페이스북 (https://www.facebook.com/ketri2484/)
+    KETRi 인스타그램 (https://www.instagram.com/ketri_no1/)
+    KETRi 전화번호: 061-721-2484
