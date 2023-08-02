@@ -15,6 +15,10 @@
     wheel                     0.37.1             pyhd3eb1b0_0   
     wincertstore              0.2              py39haa95532_2   
 
+####
+python => 3.9.7
+pyserial => 3.5
+pymodbus => 2.5.3 if not, error 'No module named pymodbus.client.sync'
 
 ### Configuration File   
     Config.py
