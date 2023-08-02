@@ -23,8 +23,16 @@ pymodbus => 2.5.3 if not, error 'No module named pymodbus.client.sync'
 ### Configuration File   
     Config.py
 
-### Run   
+### Run by python source
     python RunMainProcess.py
+
+### Make Installer
+    pip install pyinstaller
+    cd exe
+    pyinstaller ..\src\RunMainProcess.py --onefile
+    copy ../src/Config.json dist
+    cd dist
+    RunMainProcess
 
 ### 한국공학기술연구원(KETRi) 채널 안내
 * [KETRi 홈페이지 (http://www.ketri.re.kr)](http://www.ketri.re.kr)
