@@ -1,0 +1,6 @@
+{
+   "comment": "Config.json, 2023.08.02, SCS, KETRi",
+   "device_id_list": "1,2,3",
+   "serial_port": "COM3",
+   "logging_interval": 44
+}
